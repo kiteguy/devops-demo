@@ -13,5 +13,5 @@ libraryDependencies ++= Seq(
 )
 enablePlugins(DebianPlugin)
 maintainer := "Jon Olby <jon.olby@gmail.com>"
-pacvkageSummary := "My play package"
+packageSummary := "My play package"
 packageDescription := "Package"
